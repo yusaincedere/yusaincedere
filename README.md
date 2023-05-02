@@ -6,7 +6,6 @@ My GitHub activity:
 
 My commit activity over the past year:
 
-[![Yuşa's github activity graph](https://github-readme-activity-graph-green.vercel.app
-/graph?username=yusaincedere&theme=github)](https://github.com/yusaincedere)
+[![Yuşa's github activity graph](https://github-readme-activity-graph-green.vercel.app/graph?username=yusaincedere&theme=github)](https://github.com/yusaincedere)
 
 
