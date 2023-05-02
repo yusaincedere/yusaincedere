@@ -1,11 +1,11 @@
 My GitHub activity:
 
-[![Yuşa's GitHub stats](https://github-readme-stats-yusaincedere.vercel.app/api?username=yusaincedere&show_icons=true&theme=radical)]([https://github.com/a](github-readme-stats-yusaincedere.vercel.app))
+[![Yuşa's GitHub stats](https://github-readme-stats-yusaincedere.vercel.app/api?username=yusaincedere&show_icons=true&theme=radical)]([https://github.com/a](https://github.com/yusaincedere/github-readme-stats))
 
 
 Languages I used last year:
 
-[![Top Langs](https://github-readme-stats-yusaincedere.vercel.app/api/top-langs/?username=yusaincedere&layout=compact)]([https://github.com/yusaincedere](github-readme-stats-yusaincedere.vercel.app))
+[![Top Langs](https://github-readme-stats-yusaincedere.vercel.app/api/top-langs/?username=yusaincedere&layout=compact)]([https://github.com/yusaincedere](https://github.com/yusaincedere/github-readme-stats))
 
 My commit activity over the past year:
 
