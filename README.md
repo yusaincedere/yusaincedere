@@ -6,6 +6,6 @@ Here are some quick stats about my GitHub activity:
 
 And here's a chart of my commit activity over the past year:
 
-[![Your Name's github activity graph](https://activity-graph.herokuapp.com/graph?username=yusaincedere&theme=github)](https://github.com/yusaincedere)
+[![Yuşa's github activity graph](https://activity-graph.herokuapp.com/graph?username=yusaincedere&theme=github)](https://github.com/yusaincedere)
 
 
