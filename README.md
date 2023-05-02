@@ -1,8 +1,8 @@
-[![Yuşa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusaincedere&show_icons=true&theme=radical)]([https://github.com/a](https://github.com/anuraghazra/github-readme-stats))
+[![Yuşa's GitHub stats](https://github-readme-stats-yusaincedere.vercel.app/api?username=yusaincedere&show_icons=true&theme=radical)]([https://github.com/a](github-readme-stats-yusaincedere.vercel.app))
 
 Here are some quick stats about my GitHub activity:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusaincedere&layout=compact)]([https://github.com/yusaincedere](https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats-yusaincedere.vercel.app/api/top-langs/?username=yusaincedere&layout=compact)]([https://github.com/yusaincedere](github-readme-stats-yusaincedere.vercel.app))
 
 And here's a chart of my commit activity over the past year:
 
